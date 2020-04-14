@@ -28,15 +28,6 @@
       ]
     },
     {
-      "type": "link",
-      "data": [
-        {
-          "text": "РП (Владелец продукта) - Бойкова А",
-          "link": "https://plantuml.com"
-        }
-      ]
-    },
-    {
       "type": "list",
       "data": [
         [
@@ -84,14 +75,23 @@
       ]
     },
      {
-      "type": "link",
-      "data": [
-        {
-          "text": "сайт",
-          "link": "http://spamman5-001-site1.etempurl.com"
-        }
+        "type": "link",
+           "data": [
+            {
+              "text": "Site",
+              "link": "http://spamman5-001-site1.etempurl.com"
+            }
               ]
     },
+     {
+         "type": "link",
+            "data": [
+                {
+                    "text": "PlantUML",
+                    "link": "https://plantuml.com"
+                }
+                    ]
+        },
     {
       "type": "text",
       "data": [

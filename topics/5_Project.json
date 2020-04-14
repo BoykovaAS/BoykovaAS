@@ -84,7 +84,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_enter.png"
+            "data": "img/p_enter.jpg"
         },
           {
             "type": "text",
@@ -97,7 +97,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_reg.png"
+            "data": "img/p_reg.jpg"
         },
         {
             "type": "text",
@@ -110,7 +110,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_main.png"
+            "data": "img/p_main.jpg"
         },
              {
             "type": "text",
@@ -123,7 +123,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_goods.png"
+            "data": "img/p_goods.jpg"
         },
                 {
             "type": "text",
@@ -136,7 +136,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_shopcart.png"
+            "data": "img/p_shopcart.jpg"
         },
             {
             "type": "text",
@@ -149,7 +149,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_order.png"
+            "data": "img/p_order.jpg"
         },
             {
             "type": "text",
@@ -162,20 +162,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_Amain.png"
-        },  
-            {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Вход от имени администратора",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_Amain.png"
+            "data": "img/p_Amain.jpg"
         },
          {
             "type": "text",
@@ -188,7 +175,7 @@
         },
          {
             "type": "image",
-            "data": "img/p_ABC.png"
+            "data": "img/p_ABC.jpg"
         },
            {
             "type": "text",
@@ -201,20 +188,20 @@
         },
          {
             "type": "image",
-            "data": "img/p_XYZ.png"
+            "data": "img/p_XYZ.jpg"
         },
           {
             "type": "text",
             "data": [
                 {
-                    "text": "ABC/XYZ-анализS",
+                    "text": "ABC/XYZ-анализ",
                     "class": "md-title"
                 }
             ]
         },
          {
             "type": "image",
-            "data": "img/p_ABC_XYZ.png"
+            "data": "img/p_ABC_XYZ.jpg"
         },
          {
          "type": "link",

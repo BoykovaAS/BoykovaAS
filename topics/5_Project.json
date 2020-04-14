@@ -5,7 +5,7 @@
       "type": "text",
       "data": [
         {
-          "text": "Выбранная задача:",
+          "text": "Задача:",
           "class": "md-title"
         }
       ]
@@ -217,8 +217,8 @@
       "type": "link",
       "data": [
         {
-          "text": "сайт магазина",
-          "link": "http://spamman5-001-site1.etempurl.com/"
+          "text": "сайт",
+          "link": "http://spamman5-001-site1.etempurl.com"
         }
       ]
     }

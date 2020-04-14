@@ -1,216 +1,226 @@
 {
-    "title": "Проект",
-     "items": [
+  "title": "Проект",
+  "items": [
+    {
+      "type": "text",
+      "data": [
         {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Выбранная задача:",
-                    "class": "md-title"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Задача №7 Дополнить модель данными для использования методов ABC (activity based costing) и ABC/XYZ-анализа, сделать пример использования"
-                }
-                    ]
-        },
-       {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Команда:",
-                    "class": "md-title"
-                }
-            ]
-        },
-        {
-         "type": "link",
-            "data": [
-                {
-                    "text": "РП (Владелец продукта) - Бойкова А",
-                    "link": "https://plantuml.com"
-                }
-                    ]
-        },
-        {
-            "type": "list",
-            "data": [
-                [{
-                    "text": "Бойкова А. - РП (Владелец продукта), КО (Тех.писатель)"
-                }],
-                [{
-                    "text": "Толокольникова А. - АД (Мастер)"
-                }],
-                [{
-                    "text": "Семионова А. - СП (Аналитик)"
-                }],
-                [{
-                    "text": "Васильева А. - ВН (Дизайнер)"
-                }],
-                [{
-                    "text": "Сурков К. - ПП (Программист)"
-                }]
-            ]
-        },
-       {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Описание приложения:",
-                    "class": "md-title"
-                }
-            ]
-        },
-       {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Приложение, классифицирующее товары в соответстивии с рассчитанным удельным весом и объемом продаж"
-                }
-                    ]
-        },
-          {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Страница входа",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_enter.jpg"
-        },
-          {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Регистрация",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_reg.jpg"
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Главная страница пользовтеля",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_main.jpg"
-        },
-             {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Каталог товаров",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_goods.jpg"
-        },
-                {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Вид Корзины",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_shopcart.jpg"
-        },
-            {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Доставка",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_order.jpg"
-        },
-            {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Вход от имени администратора",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_Amain.jpg"
-        },
-         {
-            "type": "text",
-            "data": [
-                {
-                    "text": "ABC-анализ",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_ABC.jpg"
-        },
-           {
-            "type": "text",
-            "data": [
-                {
-                    "text": "XYZ-анализ",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_XYZ.jpg"
-        },
-          {
-            "type": "text",
-            "data": [
-                {
-                    "text": "ABC/XYZ-анализ",
-                    "class": "md-title"
-                }
-            ]
-        },
-         {
-            "type": "image",
-            "data": "img/p_ABC_XYZ.jpg"
-        },
-         {
-         "type": "link",
-            "data": [
-                {
-                    "text": "сайт магазина",
-                    "link": "http://spamman5-001-site1.etempurl.com/"
-                }
-                    ]
+          "text": "Выбранная задача:",
+          "class": "md-title"
         }
-    ]
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Задача №7 Дополнить модель данными для использования методов ABC (activity based costing) и ABC/XYZ-анализа, сделать пример использования"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Команда:",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "data": [
+        {
+          "text": "РП (Владелец продукта) - Бойкова А",
+          "link": "https://plantuml.com"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "data": [
+        [
+          {
+            "text": "Бойкова А. - РП (Владелец продукта), КО (Тех.писатель)"
+          }
+        ],
+        [
+          {
+            "text": "Толокольникова А. - АД (Мастер)"
+          }
+        ],
+        [
+          {
+            "text": "Семионова А. - СП (Аналитик)"
+          }
+        ],
+        [
+          {
+            "text": "Васильева А. - ВН (Дизайнер)"
+          }
+        ],
+        [
+          {
+            "text": "Сурков К. - ПП (Программист)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Описание приложения:",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Приложение, классифицирующее товары в соответстивии с рассчитанным удельным весом и объемом продаж"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Страница входа",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_enter.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Регистрация",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_reg.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Главная страница пользовтеля",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_main.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Каталог товаров",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_goods.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Вид Корзины",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_shopcart.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Доставка",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_order.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Вход от имени администратора",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_Amain.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "ABC-анализ",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_ABC.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "XYZ-анализ",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_XYZ.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "ABC/XYZ-анализ",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_ABC_XYZ.jpg"
+    },
+    {
+      "type": "link",
+      "data": [
+        {
+          "text": "сайт магазина",
+          "link": "http://spamman5-001-site1.etempurl.com/"
+        }
+      ]
+    }
+  ]
 }

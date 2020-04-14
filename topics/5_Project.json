@@ -215,6 +215,15 @@
          {
             "type": "image",
             "data": "img/p_ABC_XYZ.png"
+        },
+         {
+         "type": "link",
+            "data": [
+                {
+                    "text": "сайт магазина",
+                    "link": "http://spamman5-001-site1.etempurl.com/"
+                }
+                    ]
         }
     ]
 }

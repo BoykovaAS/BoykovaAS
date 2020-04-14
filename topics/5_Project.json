@@ -5,7 +5,7 @@
       "type": "text",
       "data": [
         {
-          "text": "Задача:",
+          "text": "Выбранная задача:",
           "class": "md-title"
         }
       ]
@@ -82,6 +82,15 @@
           "text": "Приложение, классифицирующее товары в соответстивии с рассчитанным удельным весом и объемом продаж"
         }
       ]
+    },
+     {
+      "type": "link",
+      "data": [
+        {
+          "text": "сайт",
+          "link": "http://spamman5-001-site1.etempurl.com"
+        }
+              ]
     },
     {
       "type": "text",
@@ -212,15 +221,6 @@
     {
       "type": "image",
       "data": "img/p_ABC_XYZ.jpg"
-    },
-    {
-      "type": "link",
-      "data": [
-        {
-          "text": "сайт",
-          "link": "http://spamman5-001-site1.etempurl.com"
-        }
-      ]
-    }
+    }  
   ]
 }

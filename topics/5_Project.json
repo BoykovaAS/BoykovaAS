@@ -72,6 +72,149 @@
                     "text": "Приложение, классифицирующее товары в соответстивии с рассчитанным удельным весом и объемом продаж"
                 }
                     ]
-        }
+        },
+          {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Страница входа",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_enter.png"
+        },
+          {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Регистрация",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_reg.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Главная страница пользовтеля",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_main.png"
+        },
+             {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Каталог товаров",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_goods.png"
+        },
+                {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Вид Корзины",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_shopcart.png"
+        },
+            {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Доставка",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_order.png"
+        },
+            {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Вход от имени администратора",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_Amain.png"
+        },  
+            {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Вход от имени администратора",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_Amain.png"
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ABC-анализ",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_ABC.png"
+        },
+           {
+            "type": "text",
+            "data": [
+                {
+                    "text": "XYZ-анализ",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_XYZ.png"
+        },
+          {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ABC/XYZ-анализS",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "image",
+            "data": "img/p_ABC_XYZ.png"
+        },
     ]
 }

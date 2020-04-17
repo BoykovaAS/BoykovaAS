@@ -233,7 +233,11 @@
     },
     {
       "type": "image",
-      "data": "img/p_output.jpg"
+      "data": "img/p_output1.jpg"
+    },
+     {
+      "type": "image",
+      "data": "img/p_output2.jpg"
     },
      {
       "type": "text",

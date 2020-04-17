@@ -221,6 +221,27 @@
     {
       "type": "image",
       "data": "img/p_ABC_XYZ.jpg"
-    }  
+    },
+     {
+      "type": "text",
+      "data": [
+        {
+          "text": "Текущий вывод ABC/XYZ-анализов",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/p_output.jpg"
+    },
+     {
+      "type": "text",
+      "data": [
+        {
+          "text": "Результат  ABC/XYZ-анализа на основе данных и количестве заказанных товаров, общей выручки и затрат"
+        }
+      ]
+    }
   ]
 }
